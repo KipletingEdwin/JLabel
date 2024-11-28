@@ -14,5 +14,7 @@ public class Main {
         frame.setSize(500,500);
         frame.setVisible(true);
 
+        frame.add(label);
+
     }
 }
