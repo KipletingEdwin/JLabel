@@ -6,6 +6,7 @@ public class Main {
     public static void main(String[] args) {
 
         JLabel label = new JLabel();
+        label.setText("Bro, dou you even code?");
 
 
         JFrame frame = new JFrame();
