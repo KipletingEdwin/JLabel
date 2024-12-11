@@ -15,6 +15,7 @@ public class Main {
         label.setVerticalTextPosition(JLabel.TOP);
         label.setForeground(new Color(0x00FF00));
         label.setFont(new  Font("MV Boli",Font.PLAIN,20));
+        label.setIconTextGap(20);
 
 
         JFrame frame = new JFrame();
