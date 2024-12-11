@@ -11,6 +11,7 @@ public class Main {
         label.setText("Bro, dou you even code?");
         label.setIcon(image);
         label.setHorizontalTextPosition(JLabel.CENTER);
+        label.setVerticalTextPosition(JLabel.TOP);
 
 
         JFrame frame = new JFrame();
